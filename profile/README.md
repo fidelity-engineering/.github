@@ -5,7 +5,7 @@ Transforming ideas into reusable and scalable AI solutions.
 ## Quick Actions
 
 ### 💡 Submit New AI Idea / Use Case
-[Submit AI Idea](https://github.com/fidelity-engineering/ai-ideas/issues/new?template=ai-idea.yml)
+[Submit AI Idea](https://github.com/fidelity-engineering/ai-ideas/issues/new?template=ai-idea.yaml)
 
 ### 🔍 Review Existing Ideas
 [Idea Portfolio](https://github.com/fidelity-engineering/ai-ideas/issues)
